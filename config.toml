@@ -8,7 +8,7 @@ build_search_index = false
 [markdown]
 
 [extra]
-favicon = "images/favicon_package_v0.16/favicon.ico"
+favicon = "https://designer.annajarlbo.dk/images/favicon_package_v0.16/favicon.ico"
 author = ""
 name = ""
 header_links = []
