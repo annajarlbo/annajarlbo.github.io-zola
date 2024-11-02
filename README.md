@@ -1,4 +1,8 @@
 
+Zola:
+- https://www.getzola.org/   
+- https://github.com/getzola/zola/releases/tag/v0.19.2   
+
 Andromeda theme copied:
 - templates
 - sass
@@ -9,6 +13,6 @@ Andromeda theme reference/config:
 https://github.com/Pixadus/andromeda-theme/blob/main/config.toml
 
 Gallery:
-https://nanogallery2.nanostudio.org/
-https://nanogallery2.nanostudio.org/documentation.html#ngy2_concepts_start_layout
-https://nanogallery2.nanostudio.org/datasource.html#ngy2_define_markup
+- https://nanogallery2.nanostudio.org/
+- https://nanogallery2.nanostudio.org/documentation.html#ngy2_concepts_start_layout
+- https://nanogallery2.nanostudio.org/datasource.html#ngy2_define_markup
