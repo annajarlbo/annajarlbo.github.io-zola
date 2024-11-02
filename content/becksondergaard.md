@@ -5,8 +5,8 @@ extra = {header_img="https://designer.annajarlbo.dk/becksondergaard/BS_IMG_6210.
 +++
 
 <div data-nanogallery2='{
-    "thumbnailHeight":  150,
-    "thumbnailWidth":   150
+    "thumbnailWidth":   300,
+    "thumbnailHeight":  300
   }'>
   <a href="https://designer.annajarlbo.dk/becksondergaard/BS_IMG_6035.jpeg"></a>
   <a href="https://designer.annajarlbo.dk/becksondergaard/BS_IMG_7869.jpeg"></a>
