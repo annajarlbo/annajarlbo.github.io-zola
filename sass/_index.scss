@@ -78,12 +78,13 @@ html, body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    /* justify-content: left; */
     .post-container {
         max-width: 27em;
         max-height: 27em;
         min-width: 23em;
         min-height: 23em;
-        border: 0.1em solid black;
+        /* border: 0.1em solid black; */
         text-align: center;
         overflow: hidden;
         position: relative;
@@ -134,7 +135,8 @@ html, body {
 a.stretched {
     display: block;
     text-decoration: none;
-    margin: 1.2em;
+    /* margin: 1.2em; */
+    margin: 0.1em;
 }
 
 // Mobile styling
