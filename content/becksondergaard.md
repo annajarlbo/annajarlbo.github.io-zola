@@ -6,7 +6,11 @@ extra = {header_img="/becksondergaard/BS_IMG_6210.jpeg"}
 
 <div data-nanogallery2='{
     "thumbnailWidth":   300,
-    "thumbnailHeight":  300
+    "thumbnailHeight":  300,
+    "thumbnailBorderHorizontal": 0,
+    "thumbnailL1BorderHorizontal": 0,
+    "thumbnailBorderVertical": 0,
+    "thumbnailL1BorderVertical": 0
   }'>
   <a href="/becksondergaard/BS_IMG_6035.jpeg"></a>
   <a href="/becksondergaard/BS_IMG_7869.jpeg"></a>
