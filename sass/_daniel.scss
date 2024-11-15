@@ -1,37 +1,44 @@
 @font-face {
-    font-family: kaoly;
-    src: url(fonts/kaoly/Kaoly\ Demo-Regular.ttf);
+  font-family: kaoly;
+  src: url(fonts/kaoly/Kaoly\ Demo-Regular.ttf);
 }
 
 $annas-white: #ebe3e3;
 
 body {
-    background-color: $annas-white;
+  background-color: $annas-white;
 }
 
 p {
-    font-family: Roboto;
+  font-family: Roboto;
 }
 
 h1.page-title {
-    font-family: kaoly;
+  font-family: kaoly;
 }
 
 .top-title {
-    padding-top: 1em;
-    padding-left: 2em;
-    a {
-        font-family: kaoly;
-        text-decoration: none;
-    }
-    a.index-top-title {
-        color: rgb(59, 67, 81);
-    }
-    a.page-top-title {
-        color: $annas-white;
-    }
+  padding-top: 1em;
+  padding-left: 2em;
+
+  a {
+    font-family: kaoly;
+    text-decoration: none;
+  }
+
+  a.index-top-title {
+    color: rgb(59, 67, 81);
+  }
+
+  a.page-top-title {
+    color: $annas-white;
+  }
+}
+
+.body-container {
+  padding: 0 30px 0 30px
 }
 
 .footer-black {
-    background-color: $annas-white !important;
+  background-color: $annas-white !important;
 }
